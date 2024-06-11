@@ -63,16 +63,9 @@ $ forever start `which webtelnet` 8080 4000 -w /home/liming/es2-mudlib/www
 
 Then, use a browser to visit the web: http://your-host:8080/
 
-## Screenshot
-
-Playing MUD with PC broswer:
-
-![webmud-pc](https://github.com/mudchina/webtelnet/raw/master/docs/webmud-pc.jpg)
-
-Playing MUD with mobile broswer on iPhone6:
-
-![webmud-mobile](https://github.com/mudchina/webtelnet/raw/master/docs/webmud-ios.jpg)
 
 ## Credits
 
 Created by Raymond Xie, published under MIT license.
+
+Updated for xterm by Lunna Cipher, published under MIT license.

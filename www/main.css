@@ -6,3 +6,10 @@ body, div#page {
   background-color: #111111;
 }
 
+#terminal, .xterm-screen, .xterm-viewport, .xterm-rows{
+  width: 100% !important;
+  height: 100% !important;
+  width: 100vw !important;
+  height: 100vh !important;
+}
+
